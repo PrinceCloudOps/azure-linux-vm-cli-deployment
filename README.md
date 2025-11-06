@@ -1,4 +1,5 @@
-# **Deploy & Harden an Azure Linux VM Using Only Azure CLI**
+# Deploy & Harden an Azure Linux VM Using Only Azure CLI
+
 [![Watch Me Build It!](./thumbnail.png)](https://www.loom.com/share/e374822388fb45258a30d64934c8e55e)
 <img width="1398" height="728" alt="Thumbnail" src="https://github.com/user-attachments/assets/6ccff329-bb22-4f1c-b55e-7debe6c40a84" />
 
