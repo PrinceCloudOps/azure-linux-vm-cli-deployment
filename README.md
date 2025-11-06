@@ -3,6 +3,10 @@
 [![Watch Me Build It!](./thumbnail.png)](https://www.loom.com/share/e374822388fb45258a30d64934c8e55e)
 <img width="1398" height="728" alt="Thumbnail" src="https://github.com/user-attachments/assets/6ccff329-bb22-4f1c-b55e-7debe6c40a84" />
 
+
+
+
+
 This lab demonstrates deploying and securing an Ubuntu Linux VM in Microsoft Azure using **100% CLI** — no portal clicking.  
 This reflects real-world cloud engineering workflows where infrastructure is created through automation.
 
